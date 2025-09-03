@@ -11,12 +11,14 @@ seguindo as instruções passadas na orientação do CP1 da matéria de DISRUPTI
 Este conjunto de dados reúne informações sobre o consumo de energia elétrica em uma única residência ao longo de quase quatro anos.
 Nele estão registradas medições de energia, tensão elétrica e intensidade da corrente, permitindo observar como o consumo varia ao 
 longo do tempo, em diferentes dias e horários.
+**Referência:** https://www.google.com/url?q=https%3A%2F%2Farchive.ics.uci.edu%2Fdataset%2F235%2Findividual%2Bhousehold%2Belectric%2Bpower%2Bconsumption
 
 ### Appliances Energy Prediction
 Este conjunto de dados mostra o consumo de energia de eletrodomésticos em uma casa de baixo consumo energético.
 Além dos dados de consumo, também traz informações sobre temperatura e umidade em vários cômodos da casa, assim como condições climáticas 
 externas (como vento, pressão e temperatura). Isso possibilita analisar como fatores internos e externos influenciam no gasto de energia 
 da residência.
+**Referência:** https://www.google.com/url?q=https%3A%2F%2Farchive.ics.uci.edu%2Fdataset%2F374%2Fappliances%2Benergy%2Bprediction
 
 ## Conteúdos do Notebook 
 Realização da Parte 1, 2 e 3 dos exercicíos, contendo:
